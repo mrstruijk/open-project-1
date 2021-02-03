@@ -17,16 +17,14 @@ MonoBehaviour:
   - _drops:
     - _item: {fileID: 11400000, guid: 8aff2c01ad67b48d0a0627754d613415, type: 2}
       _itemDropRate: 0.5
-      _collectibleItemPrefab: {fileID: 2126586097156616357, guid: 0f60adbc96570cb4e9898a0409956f1d,
-        type: 3}
     - _item: {fileID: 11400000, guid: 7a69da03abc7b42a080b2856abaab177, type: 2}
       _itemDropRate: 0.5
-      _collectibleItemPrefab: {fileID: 2126586097156616357, guid: 0f60adbc96570cb4e9898a0409956f1d,
-        type: 3}
     _dropRate: 1
   - _drops:
     - _item: {fileID: 11400000, guid: af80f3802049947e7993bd6c196aea43, type: 2}
       _itemDropRate: 1
-      _collectibleItemPrefab: {fileID: 2126586097156616357, guid: 0f60adbc96570cb4e9898a0409956f1d,
-        type: 3}
     _dropRate: 0.2
+  - _drops:
+    - _item: {fileID: 11400000, guid: ef3f2ff7dbec73a47b7db801bf4347fb, type: 2}
+      _itemDropRate: 0.4
+    _dropRate: 0.4
